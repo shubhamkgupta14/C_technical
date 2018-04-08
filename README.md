@@ -13,7 +13,7 @@ Net Salary = (Basic + DA + HRA + CCA) – IT – PF – Transport
 
 4. Develop a program to convert temperature from Fahrenheit to degree Celsius.
 
-### If, If … Else, Nested If’s Condition:  
+### If, If … Else, Nested If’s Condition  
 1. Develop a program to check whether a number entered is even or odd.  
 
 2. Develop a program to find the largest of three numbers.   
@@ -26,7 +26,7 @@ of ax<sup>2</sup> + bx + c.
 5. Develop a program that will read the value of x and evaluate the following function using if, if else &amp;
 conditional operators. Y = 1 for x &gt; 0 Y = 0 for x = 0 Y = -1 for x &lt; 0    
 
-### While, Do … While, For Loops:  
+### While, Do … While, For Loops  
 
 1. Develop a program to display the sum of N natural numbers.  
 
@@ -81,7 +81,7 @@ performs the operation and then prints the answer . (+ , - , * ,/ , %)
 &emsp;&emsp;&ensp;13 14 17 18  
 &emsp;&emsp;&emsp;&emsp;15 16    
 
-### Single Dimensional Arrays:  
+### Single Dimensional Arrays  
 1. Develop a program to find sum and average of given N elements in an array.  
 
 2. Develop a program to print the given array in reverse order.  
@@ -94,7 +94,7 @@ performs the operation and then prints the answer . (+ , - , * ,/ , %)
 
 6. Develop a program to merge two sorted arrays.  
 
-### Double Dimensional Arrays:  
+### Double Dimensional Arrays  
 
 1. Develop a program to find sum, difference and product of two matrices.  
 
@@ -109,7 +109,7 @@ performs the operation and then prints the answer . (+ , - , * ,/ , %)
 
 6. Develop a program to replace the principal diagonal elements of a given matrix by 0.  
 
-### Strings:  
+### Strings  
 
 1. Write a program to implement string handling functions in C.  
 
@@ -121,7 +121,7 @@ line of text.
 4. Write a C program to extract a portion of a Character string and print the extracted string. Assume that
 the characters are extracted starting with the n th character.  
 
-### Functions:
+### Functions
 1. Develop a program with functions:  
  a. Without Arguments &amp; without Return Value.  
  b. With Arguments &amp; without Return Value.  
@@ -143,7 +143,7 @@ Also write the main program that uses these procedures.
 6. Write a C function that will scan a character string passed as an argument and convert all lower case
 letters in to upper case.  
 
-### Pointers:
+### Pointers
 
 1. Develop a program to access variables through pointers.  
 
@@ -164,7 +164,7 @@ pointer.
 
 9. Develop a program to display the content of a 2D array using pointers.  
 
-### Structures and unions :
+### Structures and unions  
 
 1. Develop a program to assign some values to the members a structure and to display the same on the
 screen. (Members of a structure include the student name, roll number and marks).  
@@ -186,7 +186,7 @@ a function.
 
 7. Write a program to implement a union for various fields name, num, and average of a student.  
 
-### Sorting and Searching :
+### Sorting and Searching 
 1. Develop program to sort a given set of N numbers using Bubble Sort.  
 
 2. Develop program to sort a given set of N numbers using Selection Sort.
