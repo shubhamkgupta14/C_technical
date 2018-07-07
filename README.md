@@ -196,8 +196,6 @@ a function.
 4. Develop program to perform Binary Search in a given set of N numbers.  
 
 
-
-#### Download pdf format of Program List:  
 https://github.com/PIR4T3/C_technical/blob/master/C%20Programs%20List.pdf
 
     
